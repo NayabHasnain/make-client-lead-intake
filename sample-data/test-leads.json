@@ -1,0 +1,18 @@
+{
+  "high_priority_lead": {
+    "name": "Taylor Reed",
+    "email": "taylor.reed.test01@example.com",
+    "service": "Fire Engineering",
+    "city": "London",
+    "budget": 5000,
+    "urgent": "yes"
+  },
+  "standard_priority_lead": {
+    "name": "Morgan Lee",
+    "email": "morgan.lee.standard01@example.com",
+    "service": "Structural Engineering",
+    "city": "Manchester",
+    "budget": 250,
+    "urgent": "no"
+  }
+}
